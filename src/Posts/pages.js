@@ -69,7 +69,8 @@ export function Page7() {
     return (
         <div>
             <h2>I volunteer!</h2>
-            <h3>I organised, hosted several monthly meetup event, invited experts to discuss pressing issue in the world</h3>
+            <h3>I am a project manager in a charity now.</h3>
+            <h3>I organised, hosted monthly meeetup meeting events to<br></br> discuss social issues. A bit like Ted Talk but smaller</h3>
         </div>
     )
 };
@@ -77,8 +78,8 @@ export function Page7() {
 export function Page8() {
     return (
         <div>
-            <h3>I like the following concept or websites.<br></br>Hope some of them resonates with you</h3>
-            <h4>#rationalist #lesswrong #effective_altruism #regression #startup #recommender_system_problem #machine_learning</h4>
+            <h3>I like the following concept<br></br>Hope some of them resonates with you</h3>
+            <h4>#rationalist<br></br>#lesswrong<br></br>#effective_altruism<br></br>#regression<br></br>#startup<br></br>#recommender_system_problem<br></br>#machine_learning</h4>
         </div>
     )
 };
@@ -86,8 +87,9 @@ export function Page8() {
 export function Page9() {
     return (
         <div>
-            <h3>This is another personal website for more details!</h3>
-            <a href="https://www.w3schools.com/">Link</a>
+            <h3>This is linkedin and email</h3>
+            <a href="https://www.linkedin.com/in/matthew-chuang/">Linkedin</a>
+            <a href="matthewchuang19@gmail.com">Email: matthewchuang19@gmail.com</a>
         </div>
     )
 };
