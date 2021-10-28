@@ -87,9 +87,8 @@ export function Page8() {
 export function Page9() {
     return (
         <div>
-            <h3>This is linkedin and email</h3>
+            <h3>This is my linkedin</h3>
             <a href="https://www.linkedin.com/in/matthew-chuang/">Linkedin</a><br></br>
-            <a href="matthewchuang19@gmail.com">Email: matthewchuang19@gmail.com</a>
         </div>
     )
 };
