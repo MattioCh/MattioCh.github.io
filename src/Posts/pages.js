@@ -40,7 +40,7 @@ export function Page4() {
                 <br></br>
                 <li><b>Stock Backtesting System:</b><br></br>setup the testing environment and backtested several statistical and ML-based trading strategies</li>
                 <br></br>
-                <li><b>Competitive Programming Codeforce:</b><br></br>Best ranking -> top 20% out of 40000 (still improving )</li>
+                <li><b>Competitive Programming Codeforce:</b><br></br>Best ranking -&gt; top 20% out of 40000 (still improving )</li>
 
             </ul>
     </div>
@@ -88,7 +88,7 @@ export function Page9() {
     return (
         <div>
             <h3>This is linkedin and email</h3>
-            <a href="https://www.linkedin.com/in/matthew-chuang/">Linkedin</a>
+            <a href="https://www.linkedin.com/in/matthew-chuang/">Linkedin</a><br></br>
             <a href="matthewchuang19@gmail.com">Email: matthewchuang19@gmail.com</a>
         </div>
     )
