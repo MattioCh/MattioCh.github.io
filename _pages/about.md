@@ -20,13 +20,13 @@ Quantitative Strategist at Goldman Sachs, Hong Kong (AWM Private)
 
 - [Hong Kong Jockey Club Race-Outcome Predictor & Betting Backtester](/portfolio/01-horse/)
 
-- [Kalshi & Polymarket Research Platform](/portfolio/04-prediction-market/)
-  — 60gb in a DuckDB + FastAPI stack, 16 Airflow DAGs.
+- [Kalshi & Polymarket Research Platform](/portfolio/03-prediction-market/)
+  — 60gb in a DuckDB + FastAPI stack
 
-- [QRT Asset Allocation Performance Forecasting](/portfolio/05-qrtrebal/)
+- [QRT Asset Allocation Performance Forecasting](/portfolio/04-qrtrebal/)
   — 60+ experiments with 51.8% accuracy
 
-- [Idea Terminal](/portfolio/08-idea-engine/)
+- [Idea Terminal](/portfolio/07-idea-engine/)
   — CLI tool that cross pollinate research papers across fields via two LLMs to generate novel research questions.
 
 ### Beyond Work
