@@ -3,9 +3,7 @@ permalink: /
 title: "Matthew Chuang"
 excerpt: ""
 author_profile: true
-toc: true
-toc_label: "Contents"
-toc_sticky: true
+toc: false
 redirect_from:
   - /about/
   - /about.html
