@@ -1,6 +1,5 @@
 ---
 permalink: /
-title: "Matthew Chuang"
 excerpt: ""
 author_profile: true
 toc: false
@@ -13,7 +12,7 @@ redirect_from:
 
 Quantitative Strategist at Goldman Sachs, Hong Kong (AWM Private)
 
-## Selected Projects
+### Selected Projects
 
 - [*Buy Tesla, Sell Ford: Assessing Implicit Stock Market Preference in
   Pre-trained Language Models*](/publications/acl2022/)
@@ -30,6 +29,6 @@ Quantitative Strategist at Goldman Sachs, Hong Kong (AWM Private)
 - [Idea Terminal](/portfolio/08-idea-engine/)
   — CLI tool that cross pollinate research papers across fields via two LLMs to generate novel research questions.
 
-## Beyond Work
+### Beyond Work
 
 Running, hiking, rock climbing, board games, pokers
