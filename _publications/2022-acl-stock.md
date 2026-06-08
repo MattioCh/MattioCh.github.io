@@ -9,20 +9,6 @@ permalink: /publications/acl2022
 paperurl: "https://aclanthology.org/2022.acl-short.12/"
 ---
 
-## Abstract
-
-Pre-trained language models encode vast amounts of world knowledge from their
-training corpora. This paper investigates whether such models implicitly encode
-stock market preferences — specifically, whether they associate certain
-companies with positive or negative sentiment in a way that reflects real-world
-market biases.
-
-We probe pre-trained models (BERT, FinBERT) using masked
-language modeling and sentiment analysis tasks. We find that models exhibit
-statistically significant implicit preferences for certain stocks over others,
-and these preferences correlate with real-world market capitalisation and
-brand sentiment.
-
-Presented at ACL 2022 (short paper track).
+Does pre-trained model (BERT, FinBERT) has higher probs to output certain tickers when the recommendation is BUY vs SELL.
 
 [Paper](https://aclanthology.org/2022.acl-short.12/){:target="_blank"}

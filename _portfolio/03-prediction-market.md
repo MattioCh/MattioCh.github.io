@@ -12,6 +12,11 @@ tags:
   - duckdb
 ---
 
+**Written by myself**
+- Exploration on Kalshi and PolyM dataset to realise strategy decays are strong for taker side strategy.
+
+**Below written by AI**
+
 A data platform for studying prediction markets: ingest, store, and explore
 Kalshi and Polymarket activity alongside a multi-source news feed. The project
 pivoted mid-course from a trading platform to a pure data + research viewer,

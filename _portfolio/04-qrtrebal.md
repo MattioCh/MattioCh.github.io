@@ -25,11 +25,7 @@ and online learning.
 527,073 training rows × 22 features; 31,870 test rows. Purged /
 `TimeSeriesSplit` cross-validation to rule out cross-sectional leakage. Naive
 shuffled K-fold inflated scores by ~0.2pp — the ~52.6% accuracy ceiling is
-real. Binary classification beat magnitude-aware targets; path-shape features
-added marginal signal; lead–lag effects were negligible.
-
-All hypotheses, CV means, and takeaways logged in `DECISIONS.md` /
-`CONCLUSION.md`.
+real.
 
 Stack: Python, LightGBM/XGBoost/CatBoost, Optuna, PyTorch, Weights & Biases,
 uv.
