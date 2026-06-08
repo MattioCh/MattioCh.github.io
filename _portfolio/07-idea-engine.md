@@ -11,9 +11,9 @@ tags:
   - python
 ---
 
-A CLI tool that collides research papers from different fields and uses two
-LLMs — one to synthesize, another to rank — to generate novel research
-questions.
+A CLI tool that collides research papers from different fields, hoping to draw inspiration from one field to another to generate novel questions.
+
+**Below written by AI**
 
 The hypothesis: genuinely new ideas often come from carrying a mechanism out
 of one field into an open problem in another. The pipeline operationalizes
